@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pet App</string>
+    <string name="wcm">¡Bienvenido!</string>
+    <string name="email">Correo electrónico</string>
+    <string name="pass">Contraseña</string>
+    <string name="log">Iniciar sesión</string>
+    <string name="reg">¿No cuentas con una cuenta? Registrate aquí</string>
+</resources>
